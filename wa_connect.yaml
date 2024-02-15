@@ -1,0 +1,13 @@
+connect:
+- rtc1: myCobotAruco
+  port1: middle
+  type1: middle
+  rtc2: myCobot
+  port2: middle
+  type2: middle
+- rtc1: myCobotAruco
+  port1: common
+  type1: common
+  rtc2: myCobot
+  port2: common
+  type2: common
